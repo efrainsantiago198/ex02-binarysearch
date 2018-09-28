@@ -15,6 +15,7 @@
 using std::cout;
 using std::endl;
 
+
 int main(int argc, char *argv[]) {
 	int array[] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 	int64_t index = edu::vcccd::vc::csv15::binarysearch(2, array, 11);
